@@ -15,7 +15,7 @@ const Navbar = (props) => {
             <Link to="/contact-manager">Home</Link>
           </li>
           <li>
-            <Link to="/contact-manager/about">About</Link>
+            <Link to="/contact-manager/about">About app</Link>
           </li>
         </ul>
       </div>
